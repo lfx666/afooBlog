@@ -4,16 +4,16 @@
    var data = {  
     "blog": [  
         {  
-         "urlImg":"http://pic.58pic.com/58pic/17/80/90/5594c1a0ab869_1024.jpg",
-         "title": "我是标题1",  
-          "createDate": "2018-6-27",
-          "content":"我是内容1"  
+            "urlImg":"http://pic.58pic.com/58pic/17/80/90/5594c1a0ab869_1024.jpg",
+            "title": "我是标题1",  
+            "createDate": "2018-6-27",
+            "content":"我是内容1"  
       },  
        {  
-        "urlImg":"https://img3.duitang.com/uploads/item/201503/05/20150305160346_UeWyA.jpeg",
-        "title": "我是标题2",  
-        "createDate": "2018-6-28",
-        "content":"我是内容2"  
+            "urlImg":"https://img3.duitang.com/uploads/item/201503/05/20150305160346_UeWyA.jpeg",
+            "title": "我是标题2",  
+            "createDate": "2018-6-28",
+            "content":"我是内容2"  
       },  
         {  
             "urlImg":"http://pic2.16pic.com/00/51/75/16pic_5175214_b.jpg",
